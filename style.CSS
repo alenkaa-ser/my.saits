@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+header{
+    background-color: #6ba758;
+    height: 50px;
+    padding: 40px;
+    
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    background-color: #9458a7;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+header a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.cato{
+  width: 50%;
+  border: 5px solid #6ba758;
+}
+.sait{
+    display: flex;
+}
+.ppp{
+    margin: 10px;
+}
+
+a{
+    color: #6ba758;
+}
+
+
+
